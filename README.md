@@ -1,6 +1,8 @@
 ##
 
-### Olá! Eu sou o Vinicius Carvalho, estudante de engenharia de software               <img align="center" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+# Olá! Eu sou o Vinicius Carvalho
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎<img align="center" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <br/>
 
@@ -8,6 +10,8 @@
 - Sou um estudante de Engenharia de Software no quinto semestre, com habilidades em programação em várias linguagens, incluindo JavaScript, Python e C++. Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e aprender mais sobre a indústria de tecnologia. No meu tempo livre, gosto de me manter atualizado com as últimas tendências e tecnologias e participar de projetos open-source. Estou ansioso para contribuir para a comunidade de desenvolvimento de software através do meu perfil no GitHub
 
 <br/>
+
+
 
 ##
 
@@ -23,8 +27,6 @@
     <img align="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
-
-##
 
 ### Para mais contato
 
