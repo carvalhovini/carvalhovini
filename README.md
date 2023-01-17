@@ -1,6 +1,8 @@
+##
+
 ### Olá! Eu sou o Vinicius Carvalho, estudante de engenharia de software
 
-##
+<img align="center" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <br/>
 
@@ -9,7 +11,10 @@
 
 <br/>
 
+##
+
 ### Tecnologias que utilizo
+
 <div style="display: inline_block"><br/>
     <img align="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -33,4 +38,3 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/caralhovini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carvalhovini2002@gmail.com) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-carvalho-silva-a602a91b9/)
-##
