@@ -1,13 +1,9 @@
-### Olá! Eu sou o Vinicius Carvalho
+### Olá! Eu sou o Vinicius Carvalho, estudante de engenharia de software
 
 <br/>
 
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/httpswwwlinkedincominvinicius-carvalho-silva-a602a91b9)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carvalho_.vini/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caraalhovini)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/caralhovini)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carvalhovini2002@gmail.com) 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-carvalho-silva-a602a91b9/)
+### Sobre mim:
+- Sou um estudante de Engenharia de Software no quinto semestre, com habilidades em programação em várias linguagens, incluindo JavaScript, Python e C++. Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e aprender mais sobre a indústria de tecnologia. No meu tempo livre, gosto de me manter atualizado com as últimas tendências e tecnologias e participar de projetos open-source. Estou ansioso para contribuir para a comunidade de desenvolvimento de software através do meu perfil no GitHub
 
 <br/>
 
@@ -24,6 +20,14 @@
     <img align="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-### Sobre mim:
-- Sou um estudante de Engenharia de Software no quinto semestre, com habilidades em programação em várias linguagens, incluindo JavaScript, Python e C++. Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e aprender mais sobre a indústria de tecnologia. No meu tempo livre, gosto de me manter atualizado com as últimas tendências e tecnologias e participar de projetos open-source. Estou ansioso para contribuir para a comunidade de desenvolvimento de software através do meu perfil no GitHub
+### Para mais contato
+
+<br/>
+
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/httpswwwlinkedincominvinicius-carvalho-silva-a602a91b9)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carvalho_.vini/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caraalhovini)
+[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/caralhovini)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carvalhovini2002@gmail.com) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-carvalho-silva-a602a91b9/)
 
