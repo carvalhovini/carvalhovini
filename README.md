@@ -1,8 +1,6 @@
 ##
 
-### Olá! Eu sou o Vinicius Carvalho, estudante de engenharia de software
-
-<img align="center" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### Olá! Eu sou o Vinicius Carvalho, estudante de engenharia de software               <img align="center" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <br/>
 
