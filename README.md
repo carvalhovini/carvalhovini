@@ -11,8 +11,6 @@
 
 <br/>
 
-![carvalhovini GitHub stats][def]
-
 ### Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
@@ -29,7 +27,3 @@
 ### Sobre mim:
 - Sou um estudante de Engenharia de Software no quinto semestre, com habilidades em programação em várias linguagens, incluindo JavaScript, Python e C++. Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e aprender mais sobre a indústria de tecnologia. No meu tempo livre, gosto de me manter atualizado com as últimas tendências e tecnologias e participar de projetos open-source. Estou ansioso para contribuir para a comunidade de desenvolvimento de software através do meu perfil no GitHub
 
-
-
-
-[def]: https://github-readme-stats.vercel.app/api?username=carvalhovini&show_icons=true&theme=transparent
