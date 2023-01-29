@@ -14,8 +14,7 @@
 <div>
   <a href="https://github.com/carvalhovini">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=carvalhovini&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
-
+  
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
   
@@ -34,6 +33,8 @@
     <img align="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
+##
+  
 ### Para mais contato
 
 <br/>
@@ -44,5 +45,3 @@
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/caralhovini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carvalhovini2002@gmail.com) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-carvalho-silva-a602a91b9/)
-
- ![Snake animation](https://github.com/carvalhovini/carvalhovini/blob/output/github-contribution-grid-snake.svg)
