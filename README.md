@@ -8,8 +8,10 @@
 - Sou um estudante de Engenharia de Software no quinto semestre, com habilidades em programação em várias linguagens, incluindo JavaScript, Python e C++. Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e aprender mais sobre a indústria de tecnologia. No meu tempo livre, gosto de me manter atualizado com as últimas tendências e tecnologias e participar de projetos open-source. Estou ansioso para contribuir para a comunidade de desenvolvimento de software através do meu perfil no GitHub
 
 <br/>
-
+  
 ##
+
+### Tecnologias que utilizo
 
 <div>
   <a href="https://github.com/carvalhovini">
@@ -17,10 +19,6 @@
   
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
-  
-##
-
-### Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
     <img align="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
