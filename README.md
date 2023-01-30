@@ -10,19 +10,18 @@
 <br/>
   
 ##
-
-### Tecnologias que utilizo
-
-<div>
-  
   
   <a href="https://github.com/carvalhovini">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=carvalhovini&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
-  
 
+##
+
+### Tecnologias que utilizo
+
+<div>
 <div style="display: inline_block"><br/>
     <img align="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
