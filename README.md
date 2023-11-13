@@ -23,7 +23,7 @@
 
 <div>
 <div style="display: inline_block"><br/>
-    <img aling="center" alt="C" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img aling="center" alt="C" heigth="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img aling="center" alt="C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
     <img aling="center" alt="Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
     <img aling="center" alt="Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
