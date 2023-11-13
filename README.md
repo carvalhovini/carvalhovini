@@ -5,7 +5,7 @@
 <br/>
 
 ### Sobre mim:
-- Sou um estudante de Engenharia de Software no quinto semestre, com habilidades em programação em várias linguagens, incluindo JavaScript, Python e C++. Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e aprender mais sobre a indústria de tecnologia. No meu tempo livre, gosto de me manter atualizado com as últimas tendências e tecnologias e participar de projetos open-source. Estou ansioso para contribuir para a comunidade de desenvolvimento de software através do meu perfil no GitHub.
+- Sou um estudante de Engenharia de Software no sexto semestre, com habilidades sólidas em linguagens como Python, Java, javaScript, e C++. Minha paixão pela programação se estende ao mundo de Machine Learning e Data Science, áreas que estou ansioso para explorar mais profundamente. Em meu tempo livre, mantenho-me atualizado com as últimas tendências, participo ativamente em projetos open-source no meu perfil do GitHub, e estou sempre em busca de desafios que me permitam aplicar e aprimorar minhas habilidades, contribuindo assim para a comunidade de desenvolvimento de software.
 
 <br/>
   
