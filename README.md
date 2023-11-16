@@ -1,6 +1,6 @@
 ##
 
-# Olá! Eu sou o Vinicius Carvalho‎‎  ‎ ‎ ‎ .‎  <img align="center" width="400px" src="https://media.giphy.com/media/jNtqCYb1hsA9bk9blg/giphy.gif" />
+# Olá! Eu sou o Vinicius Carvalho‎‎  ‎ ‎ ‎    <img align="center" width="400px" src="https://media.giphy.com/media/jNtqCYb1hsA9bk9blg/giphy.gif" />
 
 <br/>
 
