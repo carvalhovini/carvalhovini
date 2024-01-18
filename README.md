@@ -1,11 +1,11 @@
 ##
 
-# Olá! Eu sou o Vinicius Carvalho‎‎  ‎ ‎ ‎    <img align="center" width="400px" src="https://media.giphy.com/media/jNtqCYb1hsA9bk9blg/giphy.gif" />
+# Hello! I'm Vinicius Carvalho‎‎  ‎ ‎ ‎    <img align="center" width="400px" src="https://media.giphy.com/media/jNtqCYb1hsA9bk9blg/giphy.gif" />
 
 <br/>
 
-### Sobre mim:
-- Sou um estudante de Engenharia de Software no sexto semestre, com habilidades sólidas em linguagens como Python, Java, javaScript, e C++. Minha paixão pela programação se estende ao mundo de Machine Learning e Data Science, áreas que estou ansioso para explorar mais profundamente. Em meu tempo livre, mantenho-me atualizado com as últimas tendências, participo ativamente em projetos open-source no meu perfil do GitHub, e estou sempre em busca de desafios que me permitam aplicar e aprimorar minhas habilidades, contribuindo assim para a comunidade de desenvolvimento de software.
+### About me:
+- I am a Software Engineering student in the sixth semester, with solid skills in languages ​​such as Python, Java, JavaScript, and C++. My passion for programming extends to the world of Machine Learning and Data Science, areas that I am eager to explore further. In my free time, I stay up to date with the latest trends, actively participate in open-source projects on my GitHub profile, and am always looking for challenges that allow me to apply and improve my skills, thus contributing to the development community of software.
 
 <br/>
  
