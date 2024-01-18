@@ -9,7 +9,7 @@
 
 <br/>
  
-### Tecnologias que utilizo:
+### **Technologies:**
 
 <div>
 <div style="display: inline_block"><br/>
