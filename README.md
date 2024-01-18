@@ -26,7 +26,7 @@
 
 ##
   
-### Para mais contato:
+### For more contact:
 
 <br/>
 
