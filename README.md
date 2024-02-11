@@ -5,8 +5,8 @@
 <br/>
 
 ### About me:
-- I am a Software Engineering student in the sixth semester, with solid skills in languages ​​such as Python, Java, JavaScript, and C++. My passion for programming extends to the world of Machine Learning and Data Science, areas that I am eager to explore further. In my free time, I stay up to date with the latest trends, actively participate in open-source projects on my GitHub profile, and am always looking for challenges that allow me to apply and improve my skills, thus contributing to the development community of software.
-
+- I am a sixth-semester Software Engineering student with strong skills in languages such as Python, Java, JavaScript, and C++. My passion for programming extends to the realms of Machine Learning and Data Science, areas I am eager to delve into more deeply. Additionally, I have an interest and experience in applying Data Science techniques to extract valuable insights from data. In my free time, I stay updated on the latest trends in Software Engineering, Machine Learning, and Data Science. Actively participating in open-source projects on my GitHub profile is an essential part of my routine, where I continually seek challenges to apply and enhance my skills, thereby contributing to the software development community.
+- 
 <br/>
  
 ### Technologies:
